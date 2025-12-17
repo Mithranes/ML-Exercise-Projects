@@ -1,1 +1,0 @@
-streamlit run '/home/mithranes/Documents/old/Machine Learning/Multi-Disease/main.py'
